@@ -16,7 +16,6 @@ This project automates the deployment of a Jenkins server on an AWS EC2 instance
 
 1. **Install Terraform**: Ensure Terraform is installed on your machine.
 2. **AWS Credentials**: Configure AWS credentials in `~/.aws/credentials` and set the profile to `jenkins`.
-2. **AWS Credentials**: Configure AWS credentials in `~/.aws/credentials` and set the profile to `jenkins`.
     - **Using AWS CLI**:
       1. Install the AWS CLI from the [official website](https://aws.amazon.com/cli/).
       2. Run `aws configure --profile jenkins` and follow the prompts to enter your AWS Access Key ID, Secret Access Key, region, and output format.
