@@ -63,6 +63,3 @@ To route traffic from your subdomain to the load balancer, log in to your domain
 - SSH Connection String for EC2
 - Load Balancer DSN Name
 
-## License
-
-This project is licensed under the MIT License.
